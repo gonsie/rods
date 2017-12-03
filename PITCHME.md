@@ -21,10 +21,6 @@ Together with the crank, it forms a simple mechanism that converts reciprocating
 
 ![rod](Image12.gif)
 
-1. Pin End / Small End
-2. Shank Section / I-Beam
-3. Crank End / Big End
-
 ---
 
 ## Manufacturing Processes
