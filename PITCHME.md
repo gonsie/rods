@@ -83,3 +83,7 @@ Being rigid, a connecting rod may transmit either push or pull, allowing the rod
 ![train](Walschearts_valve_gear.jpg)
 
 *In a steam locomotive, the crank pins are usually mounted directly on one or more pairs of driving wheels, and the axle of these wheels serves as the crankshaft.*
+
+---
+
+![mill](Römische_Sägemühle.svg)
