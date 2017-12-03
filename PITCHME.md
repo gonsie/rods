@@ -14,7 +14,7 @@ Being rigid, a connecting rod may transmit either push or pull, allowing the rod
 
 ---
 
-![rod-gif](0721887b597fbc2a6c3b87ccd5e47c8b.gif)
+![rod-gif](0721887b597fbc2a6c3b87ccd5e47c8b.gif =850x)
 
 ---
 
