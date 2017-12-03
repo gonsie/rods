@@ -6,21 +6,14 @@ December 6, 2017
 
 ---
 
-## Agenda
-
-1. Use
-2. Manufacturing
-3. Modes of Failure
-
----
-
 ## Definition
 
 > A **connecting rod** is a shaft which connects a piston to a crank or crankshaft in a reciprocating engine. 
 Together with the crank, it forms a simple mechanism that converts reciprocating motion into rotating motion.
 
-Wikipedia contributors. "Connecting rod." *Wikipedia, The Free Encyclopedia*.
-Wikipedia, The Free Encyclopedia, 25 Nov. 2017. Web. 3 Dec. 2017.
+---
+
+![rod-gif](0721887b597fbc2a6c3b87ccd5e47c8b.gif)
 
 ---
 
@@ -34,11 +27,7 @@ Wikipedia, The Free Encyclopedia, 25 Nov. 2017. Web. 3 Dec. 2017.
 
 ---
 
-![rod-gif](0721887b597fbc2a6c3b87ccd5e47c8b.gif)
-
----
-
-## Manufacturing Process
+## Manufacturing Processes
 
 1. Casting
 2. Forging
@@ -86,8 +75,8 @@ Wikipedia, The Free Encyclopedia, 25 Nov. 2017. Web. 3 Dec. 2017.
 
 ---
 
-# Comparison
+## Comparison
 
-- **Oldest**: Casting
-- **Newest**: Sintered
-- **Strongest**: H-Beam Forged Billet
+- *Oldest*: Casting
+- *Newest*: Sintered
+- *Strongest*: H-Beam Forged Billet
