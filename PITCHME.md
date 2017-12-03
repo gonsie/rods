@@ -10,6 +10,7 @@ December 6, 2017
 
 > A **connecting rod** is a shaft which connects a piston to a crank or crankshaft in a reciprocating engine. 
 Together with the crank, it forms a simple mechanism that converts reciprocating motion into rotating motion.
+Being rigid, a connecting rod may transmit either push or pull, allowing the rod to rotate the crank through both halves of a revolution.
 
 ---
 
