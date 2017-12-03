@@ -6,7 +6,7 @@ December 6, 2017
 
 ---
 
-# Agenda
+## Agenda
 
 1. Use
 2. Manufacturing
@@ -14,7 +14,7 @@ December 6, 2017
 
 ---
 
-# Definition
+## Definition
 
 > A **connecting rod** is a shaft which connects a piston to a crank or crankshaft in a reciprocating engine. 
 Together with the crank, it forms a simple mechanism that converts reciprocating motion into rotating motion.
@@ -24,7 +24,7 @@ Wikipedia, The Free Encyclopedia, 25 Nov. 2017. Web. 3 Dec. 2017.
 
 ---
 
-# Piston Rod
+## Piston Rod
 
 ![rod](Image12.gif)
 
@@ -38,7 +38,7 @@ Wikipedia, The Free Encyclopedia, 25 Nov. 2017. Web. 3 Dec. 2017.
 
 ---
 
-# Manufacturing Process
+## Manufacturing Process
 
 1. Casting
 2. Forging
@@ -48,6 +48,7 @@ Wikipedia, The Free Encyclopedia, 25 Nov. 2017. Web. 3 Dec. 2017.
 ---
 
 ## Casting
+
   - Cast in sand
   - Small little seam on both sides of the parting edge
   - Used in Speed Motors
@@ -57,6 +58,7 @@ Wikipedia, The Free Encyclopedia, 25 Nov. 2017. Web. 3 Dec. 2017.
 ---
 
 ## Forging
+
   - Thick seam on both sides left from the forging dies
   - Used in Speed Motors
   - I-Beam cross section
@@ -66,6 +68,7 @@ Wikipedia, The Free Encyclopedia, 25 Nov. 2017. Web. 3 Dec. 2017.
 ---
 
 ## Forged Billet
+
   - Machined from a solid piece of steel, fully machined
   - No parting edge
   - H-Beam cross section
@@ -75,6 +78,7 @@ Wikipedia, The Free Encyclopedia, 25 Nov. 2017. Web. 3 Dec. 2017.
 ---
 
 ## Sintered
+
   - Powder metal, pressed together and put into an oven
   - Parting edge is fractured
   - Each cap and rod is unique
